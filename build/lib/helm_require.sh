@@ -14,6 +14,7 @@
 # limitations under the License.
 
 set -e
+set -x
 set -o errexit
 set -o nounset
 set -o pipefail
